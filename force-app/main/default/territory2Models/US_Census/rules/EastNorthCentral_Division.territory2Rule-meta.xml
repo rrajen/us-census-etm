@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2Rule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <booleanFilter>1 AND 2</booleanFilter>
+    <name>East North Central Division Accounts</name>
+    <objectType>Account</objectType>
+    <ruleItems>
+        <field>Account.BillingState</field>
+        <operation>equals</operation>
+        <value>MI,OH,IN,WI,IL</value>
+    </ruleItems>
+    <ruleItems>
+        <field>Account.BillingState</field>
+        <operation>equals</operation>
+        <value>KY</value>
+    </ruleItems>
+</Territory2Rule>

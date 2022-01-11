@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2 xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accountAccessLevel>All</accountAccessLevel>
+    <caseAccessLevel>Edit</caseAccessLevel>
+    <contactAccessLevel>Edit</contactAccessLevel>
+    <description>State of Massachusetts</description>
+    <name>Massachusetts</name>
+    <opportunityAccessLevel>Edit</opportunityAccessLevel>
+    <parentTerritory>New_England</parentTerritory>
+    <ruleAssociations>
+        <inherited>false</inherited>
+        <ruleName>State_of_Massachusetts</ruleName>
+    </ruleAssociations>
+    <territory2Type>Regional</territory2Type>
+</Territory2>
