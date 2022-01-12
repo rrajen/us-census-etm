@@ -17,65 +17,65 @@ Division 1: New England
   - Vermont
 
 Division 2: Middle Atlantic
-    New Jersey
- 	New York
- 	Pennsylvania
+  - New Jersey
+  - New York
+  - Pennsylvania
 
 Division 3: East North Central
-	Illinois
- 	Indiana
- 	Michigan
- 	Ohio
- 	Wisconsin
+  - Illinois
+  - Indiana
+  - Michigan
+  - Ohio
+  - Wisconsin
 
 Division 4: West North Central
-	Iowa
- 	Kansas
- 	Minnesota
- 	Missouri
- 	Nebraska
- 	North Dakota
- 	South Dakota
+  - Iowa
+  - Kansas
+  - Minnesota
+  - Missouri
+  - Nebraska
+  - North Dakota
+  - South Dakota
 
 Division 5: South Atlantic
-	Delaware
- 	District of Columbia
- 	Florida
- 	Georgia
- 	Maryland
- 	North Carolina
- 	South Carolina
- 	Virginia
- 	West Virginia
+  - Delaware
+  - District of Columbia
+  - Florida
+  - Georgia
+  - Maryland
+  - North Carolina
+  - South Carolina
+  - Virginia
+  - West Virginia
 
 Division 6: East South Central
-	Alabama
- 	Kentucky
- 	Mississippi
- 	Tennessee
+  - Alabama
+  - Kentucky
+  - Mississippi
+  - Tennessee
 
 Division 7: West South Central
-	Arkansas
- 	Louisiana
- 	Oklahoma
- 	Texas
+  - Arkansas
+  - Louisiana
+  - Oklahoma
+  - Texas
 
 Division 8: Mountain
-	Arizona
- 	Colorado
- 	Idaho
- 	Montana
- 	Nevada
- 	New Mexico
- 	Utah
- 	Wyoming
+  - Arizona
+  - Colorado
+  - Idaho
+  - Montana
+  - Nevada
+  - New Mexico
+  - Utah
+  - Wyoming
 
 Division 9: Pacific
-	Alaska
- 	California
- 	Hawaii
- 	Oregon
- 	Washington
+  - Alaska
+  - California
+  - Hawaii
+  - Oregon
+  - Washington
 
 ## Deploy it to your environment
 
