@@ -1,10 +1,12 @@
 # Salesforce Enterprise Territory Model Example
 
-
-
 ## Model Description
 
-This model is based on US Census Regions, Divisions and States
+This model is based on US Census Regions, Divisions and States. The intent was to fulfill a need of a
+realistic and non-trivial territory hierarchy that can be used for whatever purposes you deem fit.
+The model will be deployed as a planning model under the name US_Census.
+
+Deploy it to your Sandbox environment first and *not* to Production directly.
 
 ![Census Map](https://raw.githubusercontent.com/rrajen/us-census-etm/main/.github/images/census.png)
 
