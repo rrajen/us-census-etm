@@ -2,11 +2,12 @@
 
 ## Model Description
 
-This model is based on US Census Regions, Divisions and States. The intent was to fulfill a need of a
-realistic and non-trivial territory hierarchy that can be used for whatever purposes you deem fit.
-The model will be deployed as a planning model under the name US_Census.
+This model is based on US Census Regions, Divisions and States. The intent was to fulfill a need for a
+realistic and non-trivial territory hierarchy that can be used primarily for learning and testing purposes.
+If you use the Deploy to Salesforce button below, the model will be deployed as a planning model under the
+name US_Census.
 
-Deploy it to your Sandbox environment first and *not* to Production directly.
+Needless to say, deploy it to your Sandbox environment first and *not* to Production directly.
 
 ![Census Map](https://raw.githubusercontent.com/rrajen/us-census-etm/main/.github/images/census.png)
 
@@ -80,6 +81,8 @@ Division 9: Pacific
   - Washington
 
 ## Deploy it to your environment
+
+Recommended to deploy to Developer Edition or Sandboxes only as this is a territory model created expressly for the purposes of learning and testing.
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=rrajen&repo=us-census-etm&ref=main">
   <img alt="Deploy to Salesforce"
